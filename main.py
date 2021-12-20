@@ -1,7 +1,19 @@
 import requests
 
 
-def get_from_instapaper():
+def login_to_instapaper(username, password):
+    pass
+
+
+def get_from_instapaper(bookmark_id):
+    pass
+
+
+def write_to_excel(title_text, body_html):
+    pass
+
+
+def read_from_excel(line_number):
     pass
 
 
